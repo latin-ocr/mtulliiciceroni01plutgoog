@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni01plutgoog_0012.png"; bbox 0 0 658 1419; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 87 558 539 795">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 87 558 539 795">
+     <span class='ocr_line' id='line_1_1' title="bbox 169 558 458 606; baseline -0.028 0"><span class='ocrx_word' id='word_1_1' title='bbox 169 558 458 606; x_wconf 20' lang='grc' dir='ltr'>Μῃϊὺίῃιιι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 126 622 507 657; baseline -0.016 0"><span class='ocrx_word' id='word_1_2' title='bbox 126 622 507 657; x_wconf 82' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 300 677 339 693; baseline -0.026 0"><span class='ocrx_word' id='word_1_3' title='bbox 300 677 339 693; x_wconf 80' lang='lat' dir='ltr'>DE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 87 718 539 763; baseline -0.024 -5"><span class='ocrx_word' id='word_1_4' title='bbox 87 718 539 763; x_wconf 54' lang='lat'>&#39;01312120115</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 296 778 337 795; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 296 778 337 795; x_wconf 73' lang='lat' dir='ltr'>AD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 125 819 502 891">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 125 819 502 891">
+     <span class='ocr_line' id='line_1_6' title="bbox 125 819 502 853; baseline -0.024 -3"><span class='ocrx_word' id='word_1_6' title='bbox 125 821 324 853; x_wconf 19' lang='lat' dir='ltr'><strong>MARCUM*</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 343 819 502 844; x_wconf 75' lang='lat' dir='ltr'>FILIUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 235 870 406 891; baseline -0.018 0"><span class='ocrx_word' id='word_1_8' title='bbox 235 871 341 891; x_wconf 77' lang='lat' dir='ltr'>LlB-Rl</span> <span class='ocrx_word' id='word_1_9' title='bbox 365 870 406 889; x_wconf 84' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 111 1189 476 1221">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 111 1189 476 1221">
+     <span class='ocr_line' id='line_1_8' title="bbox 111 1189 476 1221; baseline -0.027 -4"><span class='ocrx_word' id='word_1_10' title='bbox 111 1198 165 1217; x_wconf 71' lang='lat' dir='ltr'><em>Cicer.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 178 1197 229 1221; x_wconf 72' lang='lat' dir='ltr'><em>Opaer.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 243 1196 279 1213; x_wconf 86' lang='lat' dir='ltr'><em>Vol.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 292 1193 338 1212; x_wconf 87' lang='grc' dir='ltr'><strong><em>ΧΙΙ,</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 417 1200 420 1203; x_wconf 66' lang='grc'><strong><em>«</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 459 1189 476 1207; x_wconf 78' lang='grc' dir='ltr'><strong>Α</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
